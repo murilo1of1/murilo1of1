@@ -7,12 +7,13 @@
   
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=murilo1of1&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=murilo1of1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
+ | [![GitHub Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=murilo1of1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=murilo1of1&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
 
  
   <div align="center" >
 <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,python,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
 </a>
   <br />
 
